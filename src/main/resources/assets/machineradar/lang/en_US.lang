@@ -1,0 +1,9 @@
+key.categories.machineradar=Machine Radar
+key.machineradar.toggle=Toggle Radar
+key.machineradar.settings=Radar Settings
+key.machineradar.list=Machine List
+key.machineradar.map=Machine Map
+key.machineradar.ecg=Efficiency ECG
+key.machineradar.select=3D Selection
+item.machineradar.radar_wand.name=Radar Selection Wand
+key.machineradar.grouplayer=Group Layer

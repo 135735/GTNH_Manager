@@ -1,0 +1,9 @@
+key.categories.machineradar=机器雷达
+key.machineradar.toggle=开关雷达
+key.machineradar.settings=雷达设置
+key.machineradar.list=工厂列表
+key.machineradar.map=机器地图
+key.machineradar.ecg=效率心电图
+key.machineradar.select=3D 选区
+item.machineradar.radar_wand.name=雷达框选杖
+key.machineradar.grouplayer=分组图层
